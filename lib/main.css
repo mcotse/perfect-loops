@@ -1,6 +1,9 @@
 body{
   margin: 0;
 }
+h2{
+  text-align: center;
+}
 #gifs > img {
   display:block;
   float:left;
