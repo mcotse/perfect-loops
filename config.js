@@ -16,6 +16,7 @@ System.config({
   map: {
     "babel": "npm:babel-core@5.8.35",
     "babel-runtime": "npm:babel-runtime@5.8.35",
+    "blazy": "npm:blazy@1.8.2",
     "core-js": "npm:core-js@1.2.6",
     "jsonp": "npm:jsonp@0.2.0",
     "github:jspm/nodelibs-assert@0.1.0": {
