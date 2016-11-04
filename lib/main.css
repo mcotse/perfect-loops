@@ -1,13 +1,18 @@
 body{
   margin: 0;
+  background-color: black;
 }
 h2{
   text-align: center;
+  color: white;
+  font-size: 2em;
+  font-family: 'Space Mono', monospace;
 }
+/*TODO: use flexbox to better position the images*/
 #gifs > img {
   display:block;
   float:left;
-  width:50vw;
+  width:49vw;
   height:50vh;
   object-fit:cover;
 }
